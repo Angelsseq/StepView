@@ -17,19 +17,17 @@ StepView é um projeto desenvolvido para facilitar o agendamento de consultas em
 ## 🚀 Funcionalidades  
 
 ### 🔹 Para Secretária 
-- **Agendamento de Consultas**: Processo rápido e simplificado.  
-- **Visualização de Horários Disponíveis**: Facilidade em escolher horários.  
-- **Confirmação de Agendamento**: Feedback imediato após marcar a consulta.  
+- **Agendamento de Consultas**: Checar estado do cliente no sistema
+- **Administrar dados do cliente**: Manter CRUD, Procurar cliente, Consultar cadastro  
+
 
 ### 🔹 Para Odontológico 
-- **Gerenciamento de Consultas**: Visualizar, editar ou cancelar agendamentos.  
-- **Controle de Horários Disponíveis**: Adicionar ou remover horários.  
-- **Relatórios de Consultas**: Geração de relatórios para acompanhar os agendamentos.  
+- **Checar Informações gerais do Cliente**: Adicionar comentários no perfil, Criar agenda da consulta   
+
 
 ### 🔹 Para Gerente Administrativo
-- **Gerenciamento de Consultas**: Visualizar, editar ou cancelar agendamentos.  
-- **Controle de Horários Disponíveis**: Adicionar ou remover horários.  
-- **Relatórios de Consultas**: Geração de relatórios para acompanhar os agendamentos.
+- **Analisar métricas de clientes**: Aplicar filtragem de datas    
+- **Adicionar usuários**: Definir controle de permissão de funcionários
 
 ---
 
