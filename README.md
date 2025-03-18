@@ -27,7 +27,7 @@ StepView é um projeto desenvolvido para facilitar o agendamento de consultas em
 
 ### 🔹 Para Gerente Administrativo
 - **Analisar métricas de clientes**: Aplicar filtragem de datas    
-- **Adicionar usuários**: Definir controle de permissão de funcionários
+- **Adicionar usuários**: Definir controle de permissão dos funcionários
 
 ---
 
